@@ -1,0 +1,9 @@
+
+*.wav
+*.pt
+*.mat
+/Playground/runs
+**/.DS_Store
+.idea/.name
+/Audio files/ESC-50-master/.circleci
+Audio files/ESC-50-master/.github/stale.yml
