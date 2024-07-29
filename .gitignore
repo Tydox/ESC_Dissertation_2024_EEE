@@ -13,3 +13,8 @@ Audio files/ESC-50-master/.github/stale.yml
 .DS_Store
 /runs
 *.wav
+*.mat
+*/.mat
+*.mat
+*.mat
+/MFCC_mat
