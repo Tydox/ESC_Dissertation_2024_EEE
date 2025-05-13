@@ -18,3 +18,4 @@ Audio files/ESC-50-master/.github/stale.yml
 *.mat
 *.mat
 /MFCC_mat
+*.pt
